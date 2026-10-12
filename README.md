@@ -1,7 +1,7 @@
 # Predictor de Punto de Equilibrio de Flujo de Caja
 
 **Tesis de grado — Universidad EAFIT · 2026**  
-**Autores:**
+
 
 ---
 
